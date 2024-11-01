@@ -26,7 +26,8 @@
 -->
 
 # Components
-
+ * [dns-delegated](https://github.com/cloudposse-terraform-components/aws-dns/tree/main/src/dns-delegated)
+ * [dns-primary](https://github.com/cloudposse-terraform-components/aws-dns/tree/main/src/dns-primary)
 
 
 ---
